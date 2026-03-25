@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  /* --- 1. APKE PURANE COLORS (Wapis aa gaye) --- */
+  --color-zoom-red: #E63946;
+  --color-zoom-yellow: #FFD700;
+  --color-zoom-blue: #1D3557;
+  --color-zoom-dark: #0F0F0F;
+  --color-zoom-gray: #1E1E1E;
+
+  /* --- 2. APKE PURANE FONTS --- */
+  --font-sans: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+
+  /* --- 3. 🔥 NEW: ANIMATION (Ticker ke liye) --- */
+  --animate-marquee: marquee 25s linear infinite;
+
+  @keyframes marquee {
+    to {
+      transform: translateX(-100%);
+    }
+  }
+}
+
+/* --- 4. BODY STYLING --- */
+body {
+  background-color: var(--color-zoom-dark);
+  color: white;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
