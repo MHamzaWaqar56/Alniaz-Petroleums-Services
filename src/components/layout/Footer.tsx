@@ -150,7 +150,7 @@ export default function Footer() {
 
                <div className="flex flex-wrap gap-2 md:gap-3 mb-8">
                   {[
-                    'Fuel Card', 'Automatic Car Wash', 'Zoom Mart',
+                    'Fuel Card', 'Car Wash', 'Go Mini Mart',
                     'Masjid', 'Green Garden',
                     'Tyre Shop', 'Lounge'
                   ].map((item, i) => (
