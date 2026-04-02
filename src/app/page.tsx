@@ -38,10 +38,10 @@ export default async function Home() {
       <div className="bg-zoom-red py-2 md:py-3 overflow-hidden relative z-30 shadow-[0_0_20px_rgba(230,57,70,0.4)] border-y border-red-800">
         <div className="whitespace-nowrap flex animate-marquee">
           <span className="mx-2 md:mx-4 text-white font-bold text-xs md:text-sm lg:text-lg uppercase tracking-wider flex items-center gap-2">
-            🚨 Live Updates: Official Fuel Rates Released • High Quality Fuel Guaranteed • Open 24/7 • Visit Alniaz Petroleum Today •
+            🚨 Live Updates: Official Fuel Rates Released • High Quality Fuel Guaranteed • Open 24/7 • Visit Alniaz Petroleums Today •
           </span>
           <span className="mx-2 md:mx-4 text-white font-bold text-xs md:text-sm lg:text-lg uppercase tracking-wider flex items-center gap-2">
-            🚨 Live Updates: Official Fuel Rates Released • High Quality Fuel Guaranteed • Open 24/7 • Visit Alniaz Petroleum Today •
+            🚨 Live Updates: Official Fuel Rates Released • High Quality Fuel Guaranteed • Open 24/7 • Visit Alniaz Petroleums Today •
           </span>
         </div>
       </div>
