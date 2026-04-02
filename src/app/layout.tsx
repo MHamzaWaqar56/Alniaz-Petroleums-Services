@@ -22,12 +22,12 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   // ✅ Note: Production ma isko apni real domain se badal lena
-  metadataBase: new URL("https://alniazpetroleum.vercel.app"),
+  metadataBase: new URL("https://alniaz-petroleums-services.vercel.app/"),
   title: {
-    default: "Alniaz Petroleum | Fueling Your Journey",
-    template: "%s | Alniaz Petroleum"
+    default: "Alniaz Petroleums | Fueling Your Journey",
+    template: "%s | Alniaz Petroleums"
   },
-  description: "Official website of Alniaz Petroleum, Chichawatni. Check daily petrol & diesel rates, premium car services, and experience 100% pure quality fuel.",
+  description: "Official website of Alniaz Petroleums, Chichawatni. Check daily petrol & diesel rates, premium car services, and experience 100% pure quality fuel.",
   keywords: [
     "Alniaz Petroleum", "Petrol Pump Chichawatni", "Diesel Price Chichawatni",
     "Fuel Station Pakistan", "Alniaz Petroleum Rates", "Car Wash Chichawatni",
@@ -51,15 +51,15 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_PK",
-    url: "https://alniazpetroleum.com",
-    title: "Alniaz Petroleum | Premium Fuel Station",
+    url: "https://alniaz-petroleums-services.vercel.app/",
+    title: "Alniaz Petroleums | Premium Fuel Station",
     description: "Check today's fuel rates and our premium services in Chichawatni.",
-    siteName: "Alniaz Petroleum",
+    siteName: "Alniaz Petroleums",
     images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: "Alniaz Petroleum Station" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Alniaz Petroleum | Fueling Your Journey",
+    title: "Alniaz Petroleums | Fueling Your Journey",
     description: "Daily rates, premium services, and quality assurance.",
   },
   robots: {
