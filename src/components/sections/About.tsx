@@ -10,7 +10,7 @@ gsap.registerPlugin(ScrollTrigger);
 export default function About() {
   const containerRef = useRef(null);
 
-  const paragraphText = "At Alniaz Petroleum, we believe in purity. Our fuel is tested daily to ensure your engine runs smoother and lasts longer. Under the new management, we are bringing technology and transparency together.";
+  const paragraphText = "At Alniaz Petroleums, we believe in purity. Our fuel is tested daily to ensure your engine runs smoother and lasts longer. Under the new management, we are bringing technology and transparency together.";
   const words = paragraphText.split(" ");
 
   useEffect(() => {
