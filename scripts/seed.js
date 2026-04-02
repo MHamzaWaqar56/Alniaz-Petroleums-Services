@@ -26,7 +26,7 @@ async function seedAdmin() {
 
     // --- ADMIN DETAILS (Yahan apna email/password likhen) ---
     const adminEmail = "admin@alniazpetroleum.com";
-    const adminPassword = "*********"; // Baad me change kr lena
+    const adminPassword = "*********"; 
     
     // -------------------------------------------------------
 
@@ -45,7 +45,7 @@ async function seedAdmin() {
       name: "Alniaz Petroleum",
       email: adminEmail,
       password: hashedPassword,
-      role: "admin", // Ye zaroori ha
+      role: "admin", 
     });
 
     console.log("🎉 Admin User Created Successfully!");
