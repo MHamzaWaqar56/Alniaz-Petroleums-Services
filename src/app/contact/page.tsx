@@ -110,7 +110,7 @@ export default function ContactPage() {
                     <Phone size={20} className="md:w-6 md:h-6" />
                  </div>
                  <h3 className="text-base md:text-lg font-bold text-white mb-1">Call Us 24/7</h3>
-                 <p className="text-white font-mono text-base md:text-lg font-bold">0311 4660084</p>
+                 <p className="text-white font-mono text-base md:text-lg font-bold">0311 0000000</p>
               </div>
 
               <div className="group p-5 md:p-6 rounded-[1.5rem] md:rounded-[2rem] bg-zinc-900 border border-white/10 hover:border-blue-500 transition-all duration-300">
