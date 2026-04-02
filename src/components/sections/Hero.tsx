@@ -90,7 +90,7 @@ export default function Hero() {
         <div className="w-full h-full relative overflow-hidden">
             <Image
             src="/assets/hero-bg.jpeg"
-            alt="Alniaz Petroleums Chichawatni"
+            alt="Alniaz Petroleum Chichawatni"
             fill
             priority
             className="hero-bg-img object-cover object-center"
