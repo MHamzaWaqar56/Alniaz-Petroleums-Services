@@ -26,7 +26,7 @@ async function seedAdmin() {
 
     // --- ADMIN DETAILS (Yahan apna email/password likhen) ---
     const adminEmail = "admin@alniazpetroleum.com";
-    const adminPassword = "Alniaz@123"; // Baad me change kr lena
+    const adminPassword = "*********"; // Baad me change kr lena
     
     // -------------------------------------------------------
 
