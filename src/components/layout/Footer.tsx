@@ -184,7 +184,7 @@ export default function Footer() {
           {/* BOTTOM BAR */}
           <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-6">
              <div className="flex flex-col md:flex-row gap-4 md:gap-8 text-xs text-gray-400 font-medium text-center md:text-left">
-               <p>© 2026 Alniaz Petroleum. All rights reserved.</p>
+               <p>© 2026 Alniaz Petroleums. All rights reserved.</p>
                <div className="flex gap-4 justify-center">
                  <Link href="/privacy-policy" className="hover:text-white transition-colors">Privacy Policy</Link>
                  <Link href="/terms" className="hover:text-white transition-colors">Terms of Service</Link>
