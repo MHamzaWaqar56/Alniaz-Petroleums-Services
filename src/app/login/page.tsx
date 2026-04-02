@@ -144,7 +144,7 @@ export default function LoginPage() {
 
       {/* Footer Text */}
       <div className="absolute bottom-6 text-zinc-800 text-[10px] font-medium tracking-widest uppercase">
-        Alniaz Petroleums &copy; {new Date().getFullYear()}
+        Alniaz Petroleum &copy; {new Date().getFullYear()}
       </div>
     </div>
   );
