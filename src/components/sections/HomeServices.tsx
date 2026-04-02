@@ -10,7 +10,7 @@ const services = [
   { id: "02", title: "Fuel Card", category: "Corporate", description: "Exclusive discounts and expense management for fleets.", image: "/assets/card.png", icon: CreditCard, link: "/services" },
   { id: "03", title: "Elite Staff", category: "Hospitality", description: "Respectful, honest, and trained staff ready to serve.", image: "/assets/staff.png", icon: Users, link: "/services" },
   { id: "04", title: "Green Garden", category: "Relaxation", description: "A peaceful green area to sit and relax while you wait.", image: "/assets/garden.jpg", icon: Trees, link: "/services" },
-  { id: "05", title: "Zoom Mart", category: "Tuck Shop", description: "Cold drinks, snacks, and travel essentials open 24/7.", image: "/assets/shop.jpeg", icon: ShoppingBag, link: "/services" },
+  { id: "05", title: "Go Mini Mart", category: "Tuck Shop", description: "Cold drinks, snacks, and travel essentials open 24/7.", image: "/assets/shop.jpeg", icon: ShoppingBag, link: "/services" },
   { id: "06", title: "Car Wash", category: "Detailing", description: "Automatic foam wash to give your vehicle a brand new look.", image: "/assets/car-wash.jpg", icon: Sparkles, link: "/services" },
 ];
 
