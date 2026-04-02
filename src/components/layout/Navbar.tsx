@@ -196,7 +196,7 @@ export default function Navbar() {
                 <Mail size={16} />
               </div>
               <span className="text-sm font-medium">
-                infoalniazpetroleum@gmail.com
+                infoalniazpetroleums@gmail.com
               </span>
             </div>
 
