@@ -76,7 +76,7 @@ export default function About() {
             */}
             <div className="relative h-[400px] md:h-[600px] w-full rounded-[2rem] overflow-hidden border border-white/10 shadow-2xl grayscale-0 md:grayscale md:hover:grayscale-0 transition-all duration-700 group">
                <Image
-                 src="/assets/about.png"
+                 src="/assets/about.jpg"
                  alt="Alniaz Petroleum"
                  fill
                  className="object-cover transition-transform duration-700 group-hover:scale-105"
