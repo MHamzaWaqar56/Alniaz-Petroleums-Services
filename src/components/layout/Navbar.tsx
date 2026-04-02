@@ -189,7 +189,7 @@ export default function Navbar() {
               <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center text-zoom-red">
                 <Phone size={16} />
               </div>
-              <span className="text-sm font-medium">+92 311 4660084</span>
+              <span className="text-sm font-medium">+92 311 0000000</span>
             </div>
             <div className="flex items-center gap-4 text-gray-400">
               <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center text-zoom-red">
