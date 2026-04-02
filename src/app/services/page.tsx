@@ -22,7 +22,7 @@ const services = [
     title: "Fuel Card",
     category: "Corporate",
     desc: "Join our loyalty program. Exclusive discounts and cashless payments.",
-    image: "/assets/card.png",
+    image: "/assets/card.jpg",
     icon: <CreditCard className="text-white" size={28} />,
     color: "from-blue-600 to-blue-900",
   },
@@ -46,7 +46,7 @@ const services = [
   },
   {
     id: "05",
-    title: "Zoom Mart",
+    title: "Go Mini Mart",
     category: "Tuck Shop",
     desc: "Premium store with imported snacks, drinks, and car accessories. Open 24/7.",
     image: "/assets/shop.jpeg",
