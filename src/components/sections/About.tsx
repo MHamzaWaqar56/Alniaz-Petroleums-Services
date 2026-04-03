@@ -84,7 +84,7 @@ export default function About() {
             </div>
 
             <div className="absolute -bottom-6 -left-2 md:bottom-10 md:-left-10 bg-[#FFC107] text-black p-6 md:p-8 rounded-2xl shadow-xl border-4 border-black z-20">
-               <span className="block text-3xl md:text-5xl font-black whitespace-nowrap">ALNIAZ F/S</span>
+               <span className="block text-3xl md:text-5xl font-black whitespace-nowrap">ALNIAZ </span>
                <span className="font-bold uppercase tracking-wider text-xs md:text-sm block mt-1">Name Of Quality</span>
             </div>
           </div>
