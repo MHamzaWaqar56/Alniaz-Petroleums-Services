@@ -6,7 +6,7 @@ import { Quote } from "lucide-react";
 
 const owners = [
   { id: 0, name: "Hamza Bhatti", role: "Web Developer", image: "/assets/ownerone.png" },
-  { id: 1, name: "Hammad Rana", role: "Co-Founder", image: "/assets/ownertwo.png" },
+  { id: 1, name: "Ch Shafqat", role: "Co-Founder", image: "/assets/ownertwo.png" },
   { id: 2, name: "Jawad Rana", role: "Director", image: "/assets/owner3.png" },
   { id: 3, name: "Mian Ahmad", role: "General Manager", image: "/assets/ownerfour.png" },
 ];
