@@ -5,7 +5,7 @@ import gsap from "gsap";
 import { Quote } from "lucide-react";
 
 const owners = [
-  { id: 0, name: "Ch Shafqat Shafeeq", role: "CEO", image: "/assets/ownertwo.jpg" },
+  { id: 0, name: "Ch Shafqat Shafeeq", role: "CEO", image: "/assets/ownertwo.png" },
   { id: 1, name: "Jawad Rana", role: "Director", image: "/assets/owner3.png" },
   { id: 2, name: "Mian Ahmad", role: "General Manager", image: "/assets/ownerfour.png" },
   { id: 3, name: "Hamza Bhatti", role: "Web Developer", image: "/assets/ownerone.png" },
