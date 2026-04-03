@@ -55,9 +55,9 @@ const services = [
   },
   {
     id: "06",
-    title: "Car Wash",
-    category: "Detailing",
-    desc: "Automatic foam wash and detailing. High-quality wax for long-lasting shine.",
+    title: "Restaurent",
+    category: "FOOD & BEVERAGE",
+    desc: "Enjoy delicious meals in a cozy environment.",
     image: "/assets/restaurent.jpeg",
     icon: <Sparkles className="text-white" size={28} />,
     color: "from-yellow-600 to-yellow-800",
