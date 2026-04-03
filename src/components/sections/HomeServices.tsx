@@ -6,12 +6,12 @@ import { ArrowUpRight, ShoppingBag, Trees, Users, Sparkles, CreditCard, Moon, Ar
 
 // Services Data
 const services = [
-  { id: "01", title: "Prayer Area", category: "Spirituality", description: "A clean and peaceful Masjid with fresh water Wudu facility.", image: "/assets/mosque.jpg", icon: Moon, link: "/services" },
+  { id: "01", title: "Prayer Area", category: "Spirituality", description: "A clean and peaceful Masjid with fresh water Wudu facility.", image: "/assets/mosque.jpeg", icon: Moon, link: "/services" },
   { id: "02", title: "Fuel Card", category: "Corporate", description: "Exclusive discounts and expense management for fleets.", image: "/assets/card.jpg", icon: CreditCard, link: "/services" },
   { id: "03", title: "Elite Staff", category: "Hospitality", description: "Respectful, honest, and trained staff ready to serve.", image: "/assets/staff.png", icon: Users, link: "/services" },
-  { id: "04", title: "Green Garden", category: "Relaxation", description: "A peaceful green area to sit and relax while you wait.", image: "/assets/garden.jpg", icon: Trees, link: "/services" },
+  { id: "04", title: "Green Garden", category: "Relaxation", description: "A peaceful green area to sit and relax while you wait.", image: "/assets/garden.jpeg", icon: Trees, link: "/services" },
   { id: "05", title: "Go Mini Mart", category: "Tuck Shop", description: "Cold drinks, snacks, and travel essentials open 24/7.", image: "/assets/shop.jpeg", icon: ShoppingBag, link: "/services" },
-  { id: "06", title: "RESTAURANT", category: "FOOD & BEVERAGE", description: "Enjoy delicious meals in a cozy environment.", image: "/assets/car-wash.jpg", icon: Sparkles, link: "/services" },
+  { id: "06", title: "RESTAURANT", category: "FOOD & BEVERAGE", description: "Enjoy delicious meals in a cozy environment.", image: "/assets/restaurent.jpeg", icon: Sparkles, link: "/services" },
 ];
 
 export default function HomeServices() {
